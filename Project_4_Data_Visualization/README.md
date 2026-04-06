@@ -10,7 +10,7 @@
 
 After cleaning, analyzing, and querying the dataset in Projects 1–3, this project focuses on **communicating findings visually** — transforming raw numbers into clear, decision-ready charts that a business executive can understand in 30 seconds.
 
-> *"Your mandate shifts from finding the pattern to explaining it."* — DecodeLabs Project 4 Brief
+
 
 ---
 
